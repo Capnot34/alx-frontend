@@ -7,7 +7,7 @@ This project aims to familiarize developers with various developer tools availab
 ## Task Requirements
 
 ### Task 0: Responsive Device
-- [Task Description](0x01-developer_tools/0-responsive_device.png)
+- [Answer](/0-responsive_device.png)
 - Capture a screenshot of a website using a specific device viewport.
 - Requirement: Provide a screenshot displaying the selected device size.
 
