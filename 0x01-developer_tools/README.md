@@ -1,6 +1,7 @@
 # ALX Frontend Developer Tools Project 🛠️
 
-## Table of Contents 📜
+<details>
+<summary><h1>Table of Contents📜</h1></summary>
 
   - [Project Overview 🚀](#project-overview-)
   - [Task Requirements 📝](#task-requirements-)
@@ -40,6 +41,7 @@
     - [Task 33: Security 🔒](#task-33-security-)
     - [Task 34: Expiration Date ⏳](#task-34-expiration-date-)
   - [Resources 📚](#resources-)
+</details>
 
 ## Project Overview 🚀
 
