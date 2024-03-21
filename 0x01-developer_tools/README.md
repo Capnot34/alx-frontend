@@ -12,27 +12,27 @@ This project aims to familiarize developers with various developer tools availab
 - Requirement: Provide a screenshot displaying the selected device size.
 
 ### Task 1: Change Background Color
-- [Task Description](0x01-developer_tools/1-change_bg_color.png)
+- [Answer](./1-change_bg_color.png)
 - Modify the background color of a webpage element and capture a screenshot.
 - Requirement: Provide a screenshot showing the changed background color.
 
 ### Task 2: Force Element State
-- [Task Description](0x01-developer_tools/2-pathways_menu.png)
+- [Answer](./2-pathways_menu.png)
 - Change the state of a webpage element and capture a screenshot.
 - Requirement: Provide a screenshot showing the modified element state.
 
 ### Task 3: Copy Button Styles
-- [Task Description](0x01-developer_tools/3-button_styles)
+- [Answer](./3-button_styles)
 - Copy CSS styles of a button element and save them in a file.
 - Requirement: Save all CSS styles applied to the button in a text file.
 
 ### Task 4: Change Button Styles
-- [Task Description](0x01-developer_tools/4-new_buttons.png)
+- [Answer](./4-new_buttons.png)
 - Adjust button styles according to specified criteria and capture a screenshot.
 - Requirement: Capture a screenshot showing all modified buttons.
 
 ### Task 5: Remove Part of Website
-- [Task Description](0x01-developer_tools/5-deleted_elements.png)
+- [Answer](./5-deleted_elements.png)
 - Delete a specific element from a webpage and capture a screenshot.
 - Requirement: Provide a screenshot showing the removed element.
 
