@@ -1,9 +1,18 @@
 # ALX Frontend Developer Tools Project 🛠️
 
-## Table of Contents📜
+## Table of Contents 📜
 
 - [Project Overview](#project-overview)
 - [Task Requirements](#task-requirements)
+  - [Task 0: Responsive Device](#task-0-responsive-device)
+  - [Task 1: Change Background Color](#task-1-change-background-color)
+  - [Task 2: Force Element State](#task-2-force-element-state)
+  - [Task 3: Copy Button Styles](#task-3-copy-button-styles)
+  - [Task 4: Change Button Styles](#task-4-change-button-styles)
+  - [Task 5: Remove Part of Website](#task-5-remove-part-of-website)
+  - [Task 6: Where is it Coming From?](#task-6-where-is-it-coming-from)
+  - [Task 7: How Many Listeners](#task-7-how-many-listeners)
+  - [Task 8: What is the HSL Code](#task-8-what-is-the-hsl-code)
   - [Task 9: The max-width of the Container](#task-9-the-max-width-of-the-container)
   - [Task 10: Moving Around](#task-10-moving-around)
   - [Task 11: Coverage](#task-11-coverage)
@@ -31,6 +40,7 @@
   - [Task 33: Security](#task-33-security)
   - [Task 34: Expiration Date](#task-34-expiration-date)
 - [Resources](#resources)
+
 
 ## Project Overview 🚀
 
