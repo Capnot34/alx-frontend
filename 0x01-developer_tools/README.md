@@ -1,5 +1,37 @@
 # ALX Frontend Developer Tools Project 🛠️
 
+## Table of Contents📜
+
+- [Project Overview](#project-overview)
+- [Task Requirements](#task-requirements)
+  - [Task 9: The max-width of the Container](#task-9-the-max-width-of-the-container)
+  - [Task 10: Moving Around](#task-10-moving-around)
+  - [Task 11: Coverage](#task-11-coverage)
+  - [Task 12: Emulate the Print Version](#task-12-emulate-the-print-version)
+  - [Task 13: Using the Console](#task-13-using-the-console)
+  - [Task 14: Write Code in the Console](#task-14-write-code-in-the-console)
+  - [Task 15: Web Framework](#task-15-web-framework)
+  - [Task 16: Homepage Weight](#task-16-homepage-weight)
+  - [Task 17: Number of Requests](#task-17-number-of-requests)
+  - [Task 18: Number of CSS Files](#task-18-number-of-css-files)
+  - [Task 19: Number of Images](#task-19-number-of-images)
+  - [Task 20: Favicon Image Type](#task-20-favicon-image-type)
+  - [Task 21: Font Library](#task-21-font-library)
+  - [Task 22: XHR Calls](#task-22-xhr-calls)
+  - [Task 23: Audits Panel](#task-23-audits-panel)
+  - [Task 24: Static Assets](#task-24-static-assets)
+  - [Task 25: Accessibility](#task-25-accessibility)
+  - [Task 26: No Alt](#task-26-no-alt)
+  - [Task 27: Best Practices](#task-27-best-practices)
+  - [Task 28: SEO](#task-28-seo)
+  - [Task 29: Sources](#task-29-sources)
+  - [Task 30: Block CSS Files](#task-30-block-css-files)
+  - [Task 31: Application Panel](#task-31-application-panel)
+  - [Task 32: Service Workers](#task-32-service-workers)
+  - [Task 33: Security](#task-33-security)
+  - [Task 34: Expiration Date](#task-34-expiration-date)
+- [Resources](#resources)
+
 ## Project Overview 🚀
 
 Welcome to the ALX Frontend Developer Tools Project! 🎉 This project aims to familiarize developers with various developer tools available in web browsers and their functionalities. Through a series of tasks, participants will explore different aspects of web development, including HTML, CSS, JavaScript, and debugging techniques.
