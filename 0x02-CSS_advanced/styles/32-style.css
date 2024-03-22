@@ -209,10 +209,6 @@ a:active {
   width: 100%;
 }
 
-.nav .nav-link::before {
-  transition: var(–transition-duration) var(transition-cubic-bezier);
-}
-
 .visually-hidden {
   display: none;
 }
@@ -361,7 +357,7 @@ ul.row {
   left: -0.1rem;
   right: -0.1rem;
   z-index: 1;
-  transition-property: color, background-color;
+  transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-inner {
