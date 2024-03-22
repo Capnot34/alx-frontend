@@ -206,7 +206,7 @@ ul.row {
 }
 
 /* Task 22 */
-[data-section-theme="“dark”"] {
+[data-section-theme=“dark”] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
@@ -231,4 +231,3 @@ ul.row {
 .footer {
   padding: var(--footer-padding);
 }
-
