@@ -37,7 +37,7 @@
 
   /* section margin */
   --section-title-margin: 0;
-  --section-title-color: var(var(--color-black));
+  --section-title-color: var(--color-black);
 }
 
 html {
@@ -63,8 +63,8 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
-a {
-  color: #161616;
+a:link {
+  color: var(--text-color);
   text-decoration: none;
 }
 
@@ -77,7 +77,7 @@ a:hover {
 }
 
 a:active {
-  color: var(--color-dark-grey);
+  background-color: var(--color-light-grey);
 }
 .visually-hidden {
   display: none;
