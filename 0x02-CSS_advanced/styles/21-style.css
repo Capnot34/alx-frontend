@@ -193,14 +193,10 @@ ul.row {
 
 .col-1-3 {
   width: 33.33%;
-  float: left;
-  padding: 0.5rem;
 }
 
 .col-1-2 {
   width: 50%;
-  float: left;
-  padding: 0.5rem;
 }
 
 /* all classes that start with col- */
@@ -228,4 +224,3 @@ ul.row {
 .footer {
   padding: var(--footer-padding);
 }
-
