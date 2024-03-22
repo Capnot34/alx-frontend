@@ -388,7 +388,7 @@ ul.row {
 }
 
 .card-testimonial .card-quote::before {
-  content: \201C;
+  content: "\201C";
   position: absolute;
   top: -4.5rem;
   left: -1rem;
@@ -420,4 +420,3 @@ ul.row {
 .section-hero .section-inner {
   padding: 10rem 40rem 2rem 0;
 }
-
