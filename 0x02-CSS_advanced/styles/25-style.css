@@ -237,7 +237,7 @@ ul.row {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
-  --botton-color: var(--color-white);
+  --button-color: var(--color-white);
 }
 
 .footer-copyright {
@@ -287,4 +287,3 @@ ul.row {
   background-color: var(--color-primary);
   text-decoration: none;
 }
-
